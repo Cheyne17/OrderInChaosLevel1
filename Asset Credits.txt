@@ -1,0 +1,39 @@
+Credits:
+
+Skybox
+Asset Name: 3Skyboxes
+Credit to: Bright Shining Star: https://assetstore.unity.com/packages/2d/textures-materials/sky/3-skyboxes-25142
+
+School Desks
+Asset Name: desk
+Credit to: lxbHello/jxvc_lxb@163.com: https://opengameart.org/content/class-desk
+
+Ceiling Lights
+Asset Name: Flourscent Light
+Credit to: davididev: https://opengameart.org/content/flourescent-light
+
+Furniture
+Asset Name: kenney_furniturePack
+Credit to: Kenney/Kenney.nl/www.kenney.nl: https://opengameart.org/content/furniture-kit
+
+Light Bulb
+Asset Name: Lightbulb
+Credit to: thu0x33: https://assetstore.unity.com/packages/3d/props/interior/lightbulb-218258
+
+Light Bulb Sound Effects
+Asset Names: 114196_edgardedition_glassthud4
+             114197_edgardedition_glassthud5
+             114200_edgardedition_glassthud8
+Credit to: EdgardEdition
+https://freesound.org/people/EdgardEdition/sounds/114196/
+https://freesound.org/people/EdgardEdition/sounds/114197/
+https://freesound.org/people/EdgardEdition/sounds/114200/
+
+Light On Sound Effect
+Asset Names: 619833__cogfirestudios__game-menu-achievement
+             619838__cogfirestudios__achievement-happy-beeps-jingle
+Credit to: CogFireStudios
+https://freesound.org/people/CogFireStudios/sounds/619833/
+https://freesound.org/people/CogFireStudios/sounds/619838/
+
+
